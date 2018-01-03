@@ -1,0 +1,6 @@
+framework module Pods_MyGameTests {
+  umbrella header "Pods-MyGameTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
